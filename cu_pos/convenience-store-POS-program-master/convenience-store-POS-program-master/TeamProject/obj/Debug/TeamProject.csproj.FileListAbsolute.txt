@@ -1,0 +1,218 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\TeamProject\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\김병욱\Desktop\TeamProject_선우\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csprojAssemblyReference.cache
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\김병욱\Desktop\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\USER\Desktop\TeamProject_종현-20180613T163306Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\USER\Downloads\TeamProject_종현-20180618T142249Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\USER\Downloads\TeamProject_종현\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\USER\Desktop\lastTeamProject\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\USER\Desktop\lastTeamProject - 복사본\TeamProject_종현-20180620T074422Z-001\TeamProject_종현\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\bin\Debug\MySql.Data.dll
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\bin\Debug\MySql.Data.xml
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.day_print.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.detail_print.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.main.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.manage1.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.manage2.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.month_print.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.pay_cashform.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.ProductAdd.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.productchange.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.ProductDel.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.refund.resources
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\USER\Desktop\source code\cu_pos\convenience-store-POS-program-master\convenience-store-POS-program-master\TeamProject\obj\Debug\TeamProject.pdb

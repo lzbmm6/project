@@ -1,0 +1,1985 @@
+{
+	"result": {
+		"path": [
+			{
+				"pathType": 2,
+				"subPath": [
+					{
+						"trafficType": 3,
+						"distance": 592,
+						"sectionTime": 9
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "601",
+								"type": 11,
+								"busID": 31198
+							}
+						],
+						"stationCount": 17,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "동산지하차도",
+									"stationID": 401142,
+									"x": "127.421568",
+									"y": "36.345409"
+								},
+								{
+									"index": 1,
+									"stationName": "현암교",
+									"stationID": 366571,
+									"x": "127.419870",
+									"y": "36.339894"
+								},
+								{
+									"index": 2,
+									"stationName": "중촌네거리",
+									"stationID": 366241,
+									"x": "127.414953",
+									"y": "36.336067"
+								},
+								{
+									"index": 3,
+									"stationName": "목동네거리",
+									"stationID": 365224,
+									"x": "127.412074",
+									"y": "36.333709"
+								},
+								{
+									"index": 4,
+									"stationName": "대성중고등학교",
+									"stationID": 364959,
+									"x": "127.409909",
+									"y": "36.331364"
+								},
+								{
+									"index": 5,
+									"stationName": "오룡역6번출구",
+									"stationID": 365143,
+									"x": "127.406928",
+									"y": "36.329304"
+								},
+								{
+									"index": 6,
+									"stationName": "오룡역3번출구",
+									"stationID": 365828,
+									"x": "127.403816",
+									"y": "36.328387"
+								},
+								{
+									"index": 7,
+									"stationName": "태평1동주민센터",
+									"stationID": 366378,
+									"x": "127.397281",
+									"y": "36.326624"
+								},
+								{
+									"index": 8,
+									"stationName": "태평오거리",
+									"stationID": 366393,
+									"x": "127.393127",
+									"y": "36.326540"
+								},
+								{
+									"index": 9,
+									"stationName": "가장교오거리",
+									"stationID": 400836,
+									"x": "127.386566",
+									"y": "36.328039"
+								},
+								{
+									"index": 10,
+									"stationName": "가장제일장로교회",
+									"stationID": 367056,
+									"x": "127.383455",
+									"y": "36.328546"
+								},
+								{
+									"index": 11,
+									"stationName": "내동초등학교",
+									"stationID": 364862,
+									"x": "127.379870",
+									"y": "36.329672"
+								},
+								{
+									"index": 12,
+									"stationName": "내동네거리",
+									"stationID": 364859,
+									"x": "127.376033",
+									"y": "36.331842"
+								},
+								{
+									"index": 13,
+									"stationName": "서중학교입구",
+									"stationID": 365562,
+									"x": "127.373683",
+									"y": "36.333154"
+								},
+								{
+									"index": 14,
+									"stationName": "코오롱아파트",
+									"stationID": 366354,
+									"x": "127.371044",
+									"y": "36.334366"
+								},
+								{
+									"index": 15,
+									"stationName": "대전에너지사업단",
+									"stationID": 365243,
+									"x": "127.347089",
+									"y": "36.332435"
+								},
+								{
+									"index": 16,
+									"stationName": "어울림하트 12단지",
+									"stationID": 366059,
+									"x": "127.343192",
+									"y": "36.332351"
+								},
+								{
+									"index": 17,
+									"stationName": "목원대네거리",
+									"stationID": 365238,
+									"x": "127.339337",
+									"y": "36.332456"
+								}
+							]
+						},
+						"distance": 8947,
+						"sectionTime": 31,
+						"startX": 127.4215675,
+						"startY": 36.3454088,
+						"startID": 401142,
+						"startName": "동산지하차도",
+						"endX": 127.3393368,
+						"endY": 36.3324561,
+						"endID": 365238,
+						"endName": "목원대네거리"
+					},
+					{
+						"trafficType": 3,
+						"distance": 825,
+						"sectionTime": 12
+					}
+				],
+				"info": {
+					"mapObj": "31198:1:10:27",
+					"payment": 1250,
+					"busTransitCount": 1,
+					"subwayTransitCount": 0,
+					"busStationCount": 17,
+					"subwayStationCount": 0,
+					"totalStationCount": 17,
+					"totalTime": 52,
+					"totalWalk": 1417,
+					"trafficDistance": 8947,
+					"totalDistance": 10364,
+					"firstStartStation": "동산지하차도",
+					"lastEndStation": "목원대네거리",
+					"totalWalkTime": -1
+				}
+			},
+			{
+				"pathType": 2,
+				"subPath": [
+					{
+						"trafficType": 3,
+						"distance": 548,
+						"sectionTime": 8
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "106",
+								"type": 11,
+								"busID": 31210
+							}
+						],
+						"stationCount": 28,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "홍도치안센터",
+									"stationID": 401141,
+									"x": "127.425860",
+									"y": "36.346538"
+								},
+								{
+									"index": 1,
+									"stationName": "동산지하차도",
+									"stationID": 401142,
+									"x": "127.421568",
+									"y": "36.345409"
+								},
+								{
+									"index": 2,
+									"stationName": "현암교",
+									"stationID": 366571,
+									"x": "127.419870",
+									"y": "36.339894"
+								},
+								{
+									"index": 3,
+									"stationName": "중앙중고등학교",
+									"stationID": 366236,
+									"x": "127.413092",
+									"y": "36.339113"
+								},
+								{
+									"index": 4,
+									"stationName": "중촌초등학교",
+									"stationID": 366249,
+									"x": "127.410066",
+									"y": "36.341495"
+								},
+								{
+									"index": 5,
+									"stationName": "남선공원네거리",
+									"stationID": 364849,
+									"x": "127.401923",
+									"y": "36.345889"
+								},
+								{
+									"index": 6,
+									"stationName": "청솔아파트",
+									"stationID": 366303,
+									"x": "127.398316",
+									"y": "36.351369"
+								},
+								{
+									"index": 7,
+									"stationName": "크로바아파트",
+									"stationID": 366356,
+									"x": "127.393023",
+									"y": "36.351405"
+								},
+								{
+									"index": 8,
+									"stationName": "시청역",
+									"stationID": 366569,
+									"x": "127.388166",
+									"y": "36.351380"
+								},
+								{
+									"index": 9,
+									"stationName": "시청.교육청",
+									"stationID": 365687,
+									"x": "127.383564",
+									"y": "36.351420"
+								},
+								{
+									"index": 10,
+									"stationName": "아이빌딩",
+									"stationID": 365759,
+									"x": "127.380678",
+									"y": "36.351450"
+								},
+								{
+									"index": 11,
+									"stationName": "갤러리아타임월드",
+									"stationID": 364677,
+									"x": "127.377020",
+									"y": "36.351954"
+								},
+								{
+									"index": 12,
+									"stationName": "둔산여자고등학교",
+									"stationID": 365169,
+									"x": "127.374425",
+									"y": "36.353202"
+								},
+								{
+									"index": 13,
+									"stationName": "향촌아파트",
+									"stationID": 366567,
+									"x": "127.374499",
+									"y": "36.355086"
+								},
+								{
+									"index": 14,
+									"stationName": "무지개아파트",
+									"stationID": 365251,
+									"x": "127.374456",
+									"y": "36.359078"
+								},
+								{
+									"index": 15,
+									"stationName": "황실타운아파트",
+									"stationID": 366608,
+									"x": "127.370962",
+									"y": "36.359934"
+								},
+								{
+									"index": 16,
+									"stationName": "하나로아파트",
+									"stationID": 366450,
+									"x": "127.366182",
+									"y": "36.359945"
+								},
+								{
+									"index": 17,
+									"stationName": "월평역",
+									"stationID": 365978,
+									"x": "127.362425",
+									"y": "36.358726"
+								},
+								{
+									"index": 18,
+									"stationName": "유림공원",
+									"stationID": 367313,
+									"x": "127.354762",
+									"y": "36.359731"
+								},
+								{
+									"index": 19,
+									"stationName": "다솔아파트",
+									"stationID": 364896,
+									"x": "127.347272",
+									"y": "36.361312"
+								},
+								{
+									"index": 20,
+									"stationName": "충남대학교",
+									"stationID": 366321,
+									"x": "127.344140",
+									"y": "36.361476"
+								},
+								{
+									"index": 21,
+									"stationName": "온천교",
+									"stationID": 366561,
+									"x": "127.342787",
+									"y": "36.358061"
+								},
+								{
+									"index": 22,
+									"stationName": "유성온천역6번출구",
+									"stationID": 366011,
+									"x": "127.341588",
+									"y": "36.354883"
+								},
+								{
+									"index": 23,
+									"stationName": "유성온천역3번출구",
+									"stationID": 310180,
+									"x": "127.340951",
+									"y": "36.352419"
+								},
+								{
+									"index": 24,
+									"stationName": "휴먼시아4단지",
+									"stationID": 367496,
+									"x": "127.340212",
+									"y": "36.346295"
+								},
+								{
+									"index": 25,
+									"stationName": "트리풀시티9단지",
+									"stationID": 310037,
+									"x": "127.338091",
+									"y": "36.341489"
+								},
+								{
+									"index": 26,
+									"stationName": "도안고등학교",
+									"stationID": 367494,
+									"x": "127.338024",
+									"y": "36.337604"
+								},
+								{
+									"index": 27,
+									"stationName": "흥도초등학교",
+									"stationID": 400805,
+									"x": "127.337988",
+									"y": "36.333918"
+								},
+								{
+									"index": 28,
+									"stationName": "목원대학교",
+									"stationID": 401060,
+									"x": "127.337978",
+									"y": "36.329799"
+								}
+							]
+						},
+						"distance": 14110,
+						"sectionTime": 47,
+						"startX": 127.4258595,
+						"startY": 36.3465379,
+						"startID": 401141,
+						"startName": "홍도치안센터",
+						"endX": 127.337978,
+						"endY": 36.3297989,
+						"endID": 401060,
+						"endName": "목원대학교"
+					},
+					{
+						"trafficType": 3,
+						"distance": 514,
+						"sectionTime": 8
+					}
+				],
+				"info": {
+					"mapObj": "31210:1:54:82",
+					"payment": 1250,
+					"busTransitCount": 1,
+					"subwayTransitCount": 0,
+					"busStationCount": 28,
+					"subwayStationCount": 0,
+					"totalStationCount": 28,
+					"totalTime": 63,
+					"totalWalk": 1062,
+					"trafficDistance": 14110,
+					"totalDistance": 15172,
+					"firstStartStation": "홍도치안센터",
+					"lastEndStation": "목원대학교",
+					"totalWalkTime": -1
+				}
+			},
+			{
+				"pathType": 3,
+				"subPath": [
+					{
+						"trafficType": 3,
+						"distance": 95,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "105",
+								"type": 11,
+								"busID": 31190
+							}
+						],
+						"stationCount": 11,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "한남대학교",
+									"stationID": 366505,
+									"x": "127.422558",
+									"y": "36.351542"
+								},
+								{
+									"index": 1,
+									"stationName": "한남오거리",
+									"stationID": 365840,
+									"x": "127.416772",
+									"y": "36.349144"
+								},
+								{
+									"index": 2,
+									"stationName": "한남오거리(BRT)",
+									"stationID": 401062,
+									"x": "127.414273",
+									"y": "36.349582"
+								},
+								{
+									"index": 3,
+									"stationName": "오정동행정복지센터",
+									"stationID": 401064,
+									"x": "127.411728",
+									"y": "36.351616"
+								},
+								{
+									"index": 4,
+									"stationName": "오정농수산오거리",
+									"stationID": 401065,
+									"x": "127.407547",
+									"y": "36.354984"
+								},
+								{
+									"index": 5,
+									"stationName": "수정타운아파트",
+									"stationID": 365675,
+									"x": "127.397631",
+									"y": "36.357890"
+								},
+								{
+									"index": 6,
+									"stationName": "한밭초등학교",
+									"stationID": 366535,
+									"x": "127.395024",
+									"y": "36.354993"
+								},
+								{
+									"index": 7,
+									"stationName": "탄방중학교",
+									"stationID": 366363,
+									"x": "127.395048",
+									"y": "36.350397"
+								},
+								{
+									"index": 8,
+									"stationName": "공작아파트",
+									"stationID": 364709,
+									"x": "127.395031",
+									"y": "36.348315"
+								},
+								{
+									"index": 9,
+									"stationName": "한가람아파트",
+									"stationID": 366470,
+									"x": "127.393170",
+									"y": "36.346863"
+								},
+								{
+									"index": 10,
+									"stationName": "한우리아파트",
+									"stationID": 366554,
+									"x": "127.388702",
+									"y": "36.346886"
+								},
+								{
+									"index": 11,
+									"stationName": "탄방역.대전고용센터",
+									"stationID": 367089,
+									"x": "127.385539",
+									"y": "36.346879"
+								}
+							]
+						},
+						"distance": 5054,
+						"sectionTime": 20,
+						"startX": 127.4225584,
+						"startY": 36.351542,
+						"startID": 366505,
+						"startName": "한남대학교",
+						"endX": 127.3855385,
+						"endY": 36.3468787,
+						"endID": 367089,
+						"endName": "탄방역.대전고용센터"
+					},
+					{
+						"trafficType": 3,
+						"distance": 173,
+						"sectionTime": 3
+					},
+					{
+						"trafficType": 1,
+						"lane": [
+							{
+								"name": "대전 1호선",
+								"subwayCode": 31,
+								"subwayCityCode": 3000
+							}
+						],
+						"stationCount": 6,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "탄방",
+									"stationID": 30110,
+									"x": "127.384595",
+									"y": "36.345524"
+								},
+								{
+									"index": 1,
+									"stationName": "시청",
+									"stationID": 30111,
+									"x": "127.386735",
+									"y": "36.351677"
+								},
+								{
+									"index": 2,
+									"stationName": "정부청사",
+									"stationID": 30112,
+									"x": "127.381146",
+									"y": "36.357443"
+								},
+								{
+									"index": 3,
+									"stationName": "갈마",
+									"stationID": 30113,
+									"x": "127.372758",
+									"y": "36.357557"
+								},
+								{
+									"index": 4,
+									"stationName": "월평",
+									"stationID": 30114,
+									"x": "127.364348",
+									"y": "36.358274"
+								},
+								{
+									"index": 5,
+									"stationName": "갑천",
+									"stationID": 30115,
+									"x": "127.354586",
+									"y": "36.354683"
+								},
+								{
+									"index": 6,
+									"stationName": "유성온천",
+									"stationID": 30116,
+									"x": "127.341557",
+									"y": "36.353705"
+								}
+							]
+						},
+						"way": "유성온천",
+						"wayCode": 2,
+						"distance": 5600,
+						"sectionTime": 18,
+						"door": "null",
+						"startX": 127.3845911,
+						"startY": 36.3455219,
+						"startID": 30110,
+						"startName": "탄방",
+						"startExitNo": "4",
+						"startExitX": 127.385130295894,
+						"startExitY": 36.3458361800817,
+						"endX": 127.3415532,
+						"endY": 36.3537017,
+						"endID": 30116,
+						"endName": "유성온천",
+						"endExitNo": "6",
+						"endExitX": 127.341490360441,
+						"endExitY": 36.3542136444224
+					},
+					{
+						"trafficType": 3,
+						"distance": 131,
+						"sectionTime": 2
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "706",
+								"type": 11,
+								"busID": 31205
+							}
+						],
+						"stationCount": 6,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "유성온천역6번출구",
+									"stationID": 366011,
+									"x": "127.341588",
+									"y": "36.354883"
+								},
+								{
+									"index": 1,
+									"stationName": "유성온천역3번출구",
+									"stationID": 310180,
+									"x": "127.340951",
+									"y": "36.352419"
+								},
+								{
+									"index": 2,
+									"stationName": "휴먼시아4단지",
+									"stationID": 367496,
+									"x": "127.340212",
+									"y": "36.346295"
+								},
+								{
+									"index": 3,
+									"stationName": "트리풀시티9단지",
+									"stationID": 310037,
+									"x": "127.338091",
+									"y": "36.341489"
+								},
+								{
+									"index": 4,
+									"stationName": "도안고등학교",
+									"stationID": 367494,
+									"x": "127.338024",
+									"y": "36.337604"
+								},
+								{
+									"index": 5,
+									"stationName": "흥도초등학교",
+									"stationID": 400805,
+									"x": "127.337988",
+									"y": "36.333918"
+								},
+								{
+									"index": 6,
+									"stationName": "목원대학교",
+									"stationID": 365242,
+									"x": "127.338246",
+									"y": "36.329746"
+								}
+							]
+						},
+						"distance": 3315,
+						"sectionTime": 14,
+						"startX": 127.3415878,
+						"startY": 36.3548825,
+						"startID": 366011,
+						"startName": "유성온천역6번출구",
+						"endX": 127.3382458,
+						"endY": 36.3297463,
+						"endID": 365242,
+						"endName": "목원대학교"
+					},
+					{
+						"trafficType": 3,
+						"distance": 511,
+						"sectionTime": 8
+					}
+				],
+				"info": {
+					"mapObj": "31190:1:56:67@30001:2:30110:30116@31205:1:31:37",
+					"payment": 1250,
+					"busTransitCount": 2,
+					"subwayTransitCount": 1,
+					"busStationCount": 17,
+					"subwayStationCount": 6,
+					"totalStationCount": 23,
+					"totalTime": 66,
+					"totalWalk": 910,
+					"trafficDistance": 13969,
+					"totalDistance": 14879,
+					"firstStartStation": "한남대학교",
+					"lastEndStation": "목원대학교",
+					"totalWalkTime": -1
+				}
+			},
+			{
+				"pathType": 3,
+				"subPath": [
+					{
+						"trafficType": 3,
+						"distance": 95,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "314",
+								"type": 11,
+								"busID": 31238
+							}
+						],
+						"stationCount": 8,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "한남대학교",
+									"stationID": 366505,
+									"x": "127.422558",
+									"y": "36.351542"
+								},
+								{
+									"index": 1,
+									"stationName": "한남오거리",
+									"stationID": 365840,
+									"x": "127.416772",
+									"y": "36.349144"
+								},
+								{
+									"index": 2,
+									"stationName": "대덕구청",
+									"stationID": 401068,
+									"x": "127.417771",
+									"y": "36.346643"
+								},
+								{
+									"index": 3,
+									"stationName": "솔랑마을아파트",
+									"stationID": 401069,
+									"x": "127.421355",
+									"y": "36.343975"
+								},
+								{
+									"index": 4,
+									"stationName": "한밭자이아파트",
+									"stationID": 401070,
+									"x": "127.425174",
+									"y": "36.341262"
+								},
+								{
+									"index": 5,
+									"stationName": "삼성초등학교",
+									"stationID": 365476,
+									"x": "127.430121",
+									"y": "36.336491"
+								},
+								{
+									"index": 6,
+									"stationName": "대전역",
+									"stationID": 365019,
+									"x": "127.431775",
+									"y": "36.332759"
+								},
+								{
+									"index": 7,
+									"stationName": "목척교",
+									"stationID": 365128,
+									"x": "127.429954",
+									"y": "36.330344"
+								},
+								{
+									"index": 8,
+									"stationName": "중앙로역9번출구",
+									"stationID": 366230,
+									"x": "127.426555",
+									"y": "36.329093"
+								}
+							]
+						},
+						"distance": 3811,
+						"sectionTime": 16,
+						"startX": 127.4225584,
+						"startY": 36.351542,
+						"startID": 366505,
+						"startName": "한남대학교",
+						"endX": 127.4265553,
+						"endY": 36.329093,
+						"endID": 366230,
+						"endName": "중앙로역9번출구"
+					},
+					{
+						"trafficType": 3,
+						"distance": 80,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 1,
+						"lane": [
+							{
+								"name": "대전 1호선",
+								"subwayCode": 31,
+								"subwayCityCode": 3000
+							}
+						],
+						"stationCount": 11,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "중앙로",
+									"stationID": 30105,
+									"x": "127.425837",
+									"y": "36.328667"
+								},
+								{
+									"index": 1,
+									"stationName": "중구청",
+									"stationID": 30106,
+									"x": "127.419622",
+									"y": "36.324835"
+								},
+								{
+									"index": 2,
+									"stationName": "서대전네거리",
+									"stationID": 30107,
+									"x": "127.412531",
+									"y": "36.322419"
+								},
+								{
+									"index": 3,
+									"stationName": "오룡",
+									"stationID": 30108,
+									"x": "127.405055",
+									"y": "36.328573"
+								},
+								{
+									"index": 4,
+									"stationName": "용문",
+									"stationID": 30109,
+									"x": "127.393313",
+									"y": "36.338256"
+								},
+								{
+									"index": 5,
+									"stationName": "탄방",
+									"stationID": 30110,
+									"x": "127.384595",
+									"y": "36.345524"
+								},
+								{
+									"index": 6,
+									"stationName": "시청",
+									"stationID": 30111,
+									"x": "127.386735",
+									"y": "36.351677"
+								},
+								{
+									"index": 7,
+									"stationName": "정부청사",
+									"stationID": 30112,
+									"x": "127.381146",
+									"y": "36.357443"
+								},
+								{
+									"index": 8,
+									"stationName": "갈마",
+									"stationID": 30113,
+									"x": "127.372758",
+									"y": "36.357557"
+								},
+								{
+									"index": 9,
+									"stationName": "월평",
+									"stationID": 30114,
+									"x": "127.364348",
+									"y": "36.358274"
+								},
+								{
+									"index": 10,
+									"stationName": "갑천",
+									"stationID": 30115,
+									"x": "127.354586",
+									"y": "36.354683"
+								},
+								{
+									"index": 11,
+									"stationName": "유성온천",
+									"stationID": 30116,
+									"x": "127.341557",
+									"y": "36.353705"
+								}
+							]
+						},
+						"way": "유성온천",
+						"wayCode": 2,
+						"distance": 10600,
+						"sectionTime": 28,
+						"door": "null",
+						"startX": 127.4258344,
+						"startY": 36.328666,
+						"startID": 30105,
+						"startName": "중앙로",
+						"startExitNo": "9",
+						"startExitX": 127.426260790019,
+						"startExitY": 36.328950216871,
+						"endX": 127.3415532,
+						"endY": 36.3537017,
+						"endID": 30116,
+						"endName": "유성온천",
+						"endExitNo": "6",
+						"endExitX": 127.341490360441,
+						"endExitY": 36.3542136444224
+					},
+					{
+						"trafficType": 3,
+						"distance": 131,
+						"sectionTime": 2
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "706",
+								"type": 11,
+								"busID": 31205
+							}
+						],
+						"stationCount": 6,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "유성온천역6번출구",
+									"stationID": 366011,
+									"x": "127.341588",
+									"y": "36.354883"
+								},
+								{
+									"index": 1,
+									"stationName": "유성온천역3번출구",
+									"stationID": 310180,
+									"x": "127.340951",
+									"y": "36.352419"
+								},
+								{
+									"index": 2,
+									"stationName": "휴먼시아4단지",
+									"stationID": 367496,
+									"x": "127.340212",
+									"y": "36.346295"
+								},
+								{
+									"index": 3,
+									"stationName": "트리풀시티9단지",
+									"stationID": 310037,
+									"x": "127.338091",
+									"y": "36.341489"
+								},
+								{
+									"index": 4,
+									"stationName": "도안고등학교",
+									"stationID": 367494,
+									"x": "127.338024",
+									"y": "36.337604"
+								},
+								{
+									"index": 5,
+									"stationName": "흥도초등학교",
+									"stationID": 400805,
+									"x": "127.337988",
+									"y": "36.333918"
+								},
+								{
+									"index": 6,
+									"stationName": "목원대학교",
+									"stationID": 365242,
+									"x": "127.338246",
+									"y": "36.329746"
+								}
+							]
+						},
+						"distance": 3315,
+						"sectionTime": 14,
+						"startX": 127.3415878,
+						"startY": 36.3548825,
+						"startID": 366011,
+						"startName": "유성온천역6번출구",
+						"endX": 127.3382458,
+						"endY": 36.3297463,
+						"endID": 365242,
+						"endName": "목원대학교"
+					},
+					{
+						"trafficType": 3,
+						"distance": 511,
+						"sectionTime": 8
+					}
+				],
+				"info": {
+					"mapObj": "31238:1:50:58@30001:2:30105:30116@31205:1:31:37",
+					"payment": 1350,
+					"busTransitCount": 2,
+					"subwayTransitCount": 1,
+					"busStationCount": 14,
+					"subwayStationCount": 11,
+					"totalStationCount": 25,
+					"totalTime": 70,
+					"totalWalk": 817,
+					"trafficDistance": 17726,
+					"totalDistance": 18543,
+					"firstStartStation": "한남대학교",
+					"lastEndStation": "목원대학교",
+					"totalWalkTime": -1
+				}
+			},
+			{
+				"pathType": 2,
+				"subPath": [
+					{
+						"trafficType": 3,
+						"distance": 95,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "105",
+								"type": 11,
+								"busID": 31190
+							}
+						],
+						"stationCount": 21,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "한남대학교",
+									"stationID": 366505,
+									"x": "127.422558",
+									"y": "36.351542"
+								},
+								{
+									"index": 1,
+									"stationName": "한남오거리",
+									"stationID": 365840,
+									"x": "127.416772",
+									"y": "36.349144"
+								},
+								{
+									"index": 2,
+									"stationName": "한남오거리(BRT)",
+									"stationID": 401062,
+									"x": "127.414273",
+									"y": "36.349582"
+								},
+								{
+									"index": 3,
+									"stationName": "오정동행정복지센터",
+									"stationID": 401064,
+									"x": "127.411728",
+									"y": "36.351616"
+								},
+								{
+									"index": 4,
+									"stationName": "오정농수산오거리",
+									"stationID": 401065,
+									"x": "127.407547",
+									"y": "36.354984"
+								},
+								{
+									"index": 5,
+									"stationName": "수정타운아파트",
+									"stationID": 365675,
+									"x": "127.397631",
+									"y": "36.357890"
+								},
+								{
+									"index": 6,
+									"stationName": "한밭초등학교",
+									"stationID": 366535,
+									"x": "127.395024",
+									"y": "36.354993"
+								},
+								{
+									"index": 7,
+									"stationName": "탄방중학교",
+									"stationID": 366363,
+									"x": "127.395048",
+									"y": "36.350397"
+								},
+								{
+									"index": 8,
+									"stationName": "공작아파트",
+									"stationID": 364709,
+									"x": "127.395031",
+									"y": "36.348315"
+								},
+								{
+									"index": 9,
+									"stationName": "한가람아파트",
+									"stationID": 366470,
+									"x": "127.393170",
+									"y": "36.346863"
+								},
+								{
+									"index": 10,
+									"stationName": "한우리아파트",
+									"stationID": 366554,
+									"x": "127.388702",
+									"y": "36.346886"
+								},
+								{
+									"index": 11,
+									"stationName": "탄방역.대전고용센터",
+									"stationID": 367089,
+									"x": "127.385539",
+									"y": "36.346879"
+								},
+								{
+									"index": 12,
+									"stationName": "녹원아파트",
+									"stationID": 364875,
+									"x": "127.381779",
+									"y": "36.346093"
+								},
+								{
+									"index": 13,
+									"stationName": "대전상공회의소",
+									"stationID": 364980,
+									"x": "127.378982",
+									"y": "36.346205"
+								},
+								{
+									"index": 14,
+									"stationName": "큰마을네거리",
+									"stationID": 364691,
+									"x": "127.376116",
+									"y": "36.349308"
+								},
+								{
+									"index": 15,
+									"stationName": "갈마육교",
+									"stationID": 364662,
+									"x": "127.371888",
+									"y": "36.351413"
+								},
+								{
+									"index": 16,
+									"stationName": "갈마네거리",
+									"stationID": 364656,
+									"x": "127.368439",
+									"y": "36.353621"
+								},
+								{
+									"index": 17,
+									"stationName": "대전일보사",
+									"stationID": 365026,
+									"x": "127.361516",
+									"y": "36.354134"
+								},
+								{
+									"index": 18,
+									"stationName": "월평삼거리",
+									"stationID": 365982,
+									"x": "127.356001",
+									"y": "36.352753"
+								},
+								{
+									"index": 19,
+									"stationName": "도시철도공사앞",
+									"stationID": 364988,
+									"x": "127.351880",
+									"y": "36.351171"
+								},
+								{
+									"index": 20,
+									"stationName": "만년교",
+									"stationID": 366632,
+									"x": "127.345628",
+									"y": "36.352778"
+								},
+								{
+									"index": 21,
+									"stationName": "유성온천역7번출구",
+									"stationID": 366012,
+									"x": "127.342102",
+									"y": "36.354624"
+								}
+							]
+						},
+						"distance": 9713,
+						"sectionTime": 34,
+						"startX": 127.4225584,
+						"startY": 36.351542,
+						"startID": 366505,
+						"startName": "한남대학교",
+						"endX": 127.3421025,
+						"endY": 36.354624,
+						"endID": 366012,
+						"endName": "유성온천역7번출구"
+					},
+					{
+						"trafficType": 3,
+						"distance": 54,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "706",
+								"type": 11,
+								"busID": 31205
+							}
+						],
+						"stationCount": 6,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "유성온천역6번출구",
+									"stationID": 366011,
+									"x": "127.341588",
+									"y": "36.354883"
+								},
+								{
+									"index": 1,
+									"stationName": "유성온천역3번출구",
+									"stationID": 310180,
+									"x": "127.340951",
+									"y": "36.352419"
+								},
+								{
+									"index": 2,
+									"stationName": "휴먼시아4단지",
+									"stationID": 367496,
+									"x": "127.340212",
+									"y": "36.346295"
+								},
+								{
+									"index": 3,
+									"stationName": "트리풀시티9단지",
+									"stationID": 310037,
+									"x": "127.338091",
+									"y": "36.341489"
+								},
+								{
+									"index": 4,
+									"stationName": "도안고등학교",
+									"stationID": 367494,
+									"x": "127.338024",
+									"y": "36.337604"
+								},
+								{
+									"index": 5,
+									"stationName": "흥도초등학교",
+									"stationID": 400805,
+									"x": "127.337988",
+									"y": "36.333918"
+								},
+								{
+									"index": 6,
+									"stationName": "목원대학교",
+									"stationID": 365242,
+									"x": "127.338246",
+									"y": "36.329746"
+								}
+							]
+						},
+						"distance": 3315,
+						"sectionTime": 14,
+						"startX": 127.3415878,
+						"startY": 36.3548825,
+						"startID": 366011,
+						"startName": "유성온천역6번출구",
+						"endX": 127.3382458,
+						"endY": 36.3297463,
+						"endID": 365242,
+						"endName": "목원대학교"
+					},
+					{
+						"trafficType": 3,
+						"distance": 511,
+						"sectionTime": 8
+					}
+				],
+				"info": {
+					"mapObj": "31190:1:56:77@31205:1:31:37",
+					"payment": 1250,
+					"busTransitCount": 2,
+					"subwayTransitCount": 0,
+					"busStationCount": 27,
+					"subwayStationCount": 0,
+					"totalStationCount": 27,
+					"totalTime": 58,
+					"totalWalk": 660,
+					"trafficDistance": 13028,
+					"totalDistance": 13688,
+					"firstStartStation": "한남대학교",
+					"lastEndStation": "목원대학교",
+					"totalWalkTime": -1
+				}
+			},
+			{
+				"pathType": 2,
+				"subPath": [
+					{
+						"trafficType": 3,
+						"distance": 95,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "105",
+								"type": 11,
+								"busID": 31190
+							}
+						],
+						"stationCount": 21,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "한남대학교",
+									"stationID": 366505,
+									"x": "127.422558",
+									"y": "36.351542"
+								},
+								{
+									"index": 1,
+									"stationName": "한남오거리",
+									"stationID": 365840,
+									"x": "127.416772",
+									"y": "36.349144"
+								},
+								{
+									"index": 2,
+									"stationName": "한남오거리(BRT)",
+									"stationID": 401062,
+									"x": "127.414273",
+									"y": "36.349582"
+								},
+								{
+									"index": 3,
+									"stationName": "오정동행정복지센터",
+									"stationID": 401064,
+									"x": "127.411728",
+									"y": "36.351616"
+								},
+								{
+									"index": 4,
+									"stationName": "오정농수산오거리",
+									"stationID": 401065,
+									"x": "127.407547",
+									"y": "36.354984"
+								},
+								{
+									"index": 5,
+									"stationName": "수정타운아파트",
+									"stationID": 365675,
+									"x": "127.397631",
+									"y": "36.357890"
+								},
+								{
+									"index": 6,
+									"stationName": "한밭초등학교",
+									"stationID": 366535,
+									"x": "127.395024",
+									"y": "36.354993"
+								},
+								{
+									"index": 7,
+									"stationName": "탄방중학교",
+									"stationID": 366363,
+									"x": "127.395048",
+									"y": "36.350397"
+								},
+								{
+									"index": 8,
+									"stationName": "공작아파트",
+									"stationID": 364709,
+									"x": "127.395031",
+									"y": "36.348315"
+								},
+								{
+									"index": 9,
+									"stationName": "한가람아파트",
+									"stationID": 366470,
+									"x": "127.393170",
+									"y": "36.346863"
+								},
+								{
+									"index": 10,
+									"stationName": "한우리아파트",
+									"stationID": 366554,
+									"x": "127.388702",
+									"y": "36.346886"
+								},
+								{
+									"index": 11,
+									"stationName": "탄방역.대전고용센터",
+									"stationID": 367089,
+									"x": "127.385539",
+									"y": "36.346879"
+								},
+								{
+									"index": 12,
+									"stationName": "녹원아파트",
+									"stationID": 364875,
+									"x": "127.381779",
+									"y": "36.346093"
+								},
+								{
+									"index": 13,
+									"stationName": "대전상공회의소",
+									"stationID": 364980,
+									"x": "127.378982",
+									"y": "36.346205"
+								},
+								{
+									"index": 14,
+									"stationName": "큰마을네거리",
+									"stationID": 364691,
+									"x": "127.376116",
+									"y": "36.349308"
+								},
+								{
+									"index": 15,
+									"stationName": "갈마육교",
+									"stationID": 364662,
+									"x": "127.371888",
+									"y": "36.351413"
+								},
+								{
+									"index": 16,
+									"stationName": "갈마네거리",
+									"stationID": 364656,
+									"x": "127.368439",
+									"y": "36.353621"
+								},
+								{
+									"index": 17,
+									"stationName": "대전일보사",
+									"stationID": 365026,
+									"x": "127.361516",
+									"y": "36.354134"
+								},
+								{
+									"index": 18,
+									"stationName": "월평삼거리",
+									"stationID": 365982,
+									"x": "127.356001",
+									"y": "36.352753"
+								},
+								{
+									"index": 19,
+									"stationName": "도시철도공사앞",
+									"stationID": 364988,
+									"x": "127.351880",
+									"y": "36.351171"
+								},
+								{
+									"index": 20,
+									"stationName": "만년교",
+									"stationID": 366632,
+									"x": "127.345628",
+									"y": "36.352778"
+								},
+								{
+									"index": 21,
+									"stationName": "유성온천역7번출구",
+									"stationID": 366012,
+									"x": "127.342102",
+									"y": "36.354624"
+								}
+							]
+						},
+						"distance": 9713,
+						"sectionTime": 34,
+						"startX": 127.4225584,
+						"startY": 36.351542,
+						"startID": 366505,
+						"startName": "한남대학교",
+						"endX": 127.3421025,
+						"endY": 36.354624,
+						"endID": 366012,
+						"endName": "유성온천역7번출구"
+					},
+					{
+						"trafficType": 3,
+						"distance": 54,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "115",
+								"type": 11,
+								"busID": 31219
+							}
+						],
+						"stationCount": 6,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "유성온천역6번출구",
+									"stationID": 366011,
+									"x": "127.341588",
+									"y": "36.354883"
+								},
+								{
+									"index": 1,
+									"stationName": "유성온천역3번출구",
+									"stationID": 310180,
+									"x": "127.340951",
+									"y": "36.352419"
+								},
+								{
+									"index": 2,
+									"stationName": "휴먼시아4단지",
+									"stationID": 367496,
+									"x": "127.340212",
+									"y": "36.346295"
+								},
+								{
+									"index": 3,
+									"stationName": "트리풀시티9단지",
+									"stationID": 310037,
+									"x": "127.338091",
+									"y": "36.341489"
+								},
+								{
+									"index": 4,
+									"stationName": "도안고등학교",
+									"stationID": 367494,
+									"x": "127.338024",
+									"y": "36.337604"
+								},
+								{
+									"index": 5,
+									"stationName": "흥도초등학교",
+									"stationID": 400805,
+									"x": "127.337988",
+									"y": "36.333918"
+								},
+								{
+									"index": 6,
+									"stationName": "목원대네거리",
+									"stationID": 365237,
+									"x": "127.339686",
+									"y": "36.331935"
+								}
+							]
+						},
+						"distance": 3022,
+						"sectionTime": 14,
+						"startX": 127.3415878,
+						"startY": 36.3548825,
+						"startID": 366011,
+						"startName": "유성온천역6번출구",
+						"endX": 127.3396865,
+						"endY": 36.3319353,
+						"endID": 365237,
+						"endName": "목원대네거리"
+					},
+					{
+						"trafficType": 3,
+						"distance": 777,
+						"sectionTime": 12
+					}
+				],
+				"info": {
+					"mapObj": "31190:1:56:77@31219:1:6:12",
+					"payment": 1250,
+					"busTransitCount": 2,
+					"subwayTransitCount": 0,
+					"busStationCount": 27,
+					"subwayStationCount": 0,
+					"totalStationCount": 27,
+					"totalTime": 62,
+					"totalWalk": 926,
+					"trafficDistance": 12735,
+					"totalDistance": 13661,
+					"firstStartStation": "한남대학교",
+					"lastEndStation": "목원대네거리",
+					"totalWalkTime": -1
+				}
+			},
+			{
+				"pathType": 2,
+				"subPath": [
+					{
+						"trafficType": 3,
+						"distance": 95,
+						"sectionTime": 1
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "105",
+								"type": 11,
+								"busID": 31190
+							}
+						],
+						"stationCount": 20,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "한남대학교",
+									"stationID": 366505,
+									"x": "127.422558",
+									"y": "36.351542"
+								},
+								{
+									"index": 1,
+									"stationName": "한남오거리",
+									"stationID": 365840,
+									"x": "127.416772",
+									"y": "36.349144"
+								},
+								{
+									"index": 2,
+									"stationName": "한남오거리(BRT)",
+									"stationID": 401062,
+									"x": "127.414273",
+									"y": "36.349582"
+								},
+								{
+									"index": 3,
+									"stationName": "오정동행정복지센터",
+									"stationID": 401064,
+									"x": "127.411728",
+									"y": "36.351616"
+								},
+								{
+									"index": 4,
+									"stationName": "오정농수산오거리",
+									"stationID": 401065,
+									"x": "127.407547",
+									"y": "36.354984"
+								},
+								{
+									"index": 5,
+									"stationName": "수정타운아파트",
+									"stationID": 365675,
+									"x": "127.397631",
+									"y": "36.357890"
+								},
+								{
+									"index": 6,
+									"stationName": "한밭초등학교",
+									"stationID": 366535,
+									"x": "127.395024",
+									"y": "36.354993"
+								},
+								{
+									"index": 7,
+									"stationName": "탄방중학교",
+									"stationID": 366363,
+									"x": "127.395048",
+									"y": "36.350397"
+								},
+								{
+									"index": 8,
+									"stationName": "공작아파트",
+									"stationID": 364709,
+									"x": "127.395031",
+									"y": "36.348315"
+								},
+								{
+									"index": 9,
+									"stationName": "한가람아파트",
+									"stationID": 366470,
+									"x": "127.393170",
+									"y": "36.346863"
+								},
+								{
+									"index": 10,
+									"stationName": "한우리아파트",
+									"stationID": 366554,
+									"x": "127.388702",
+									"y": "36.346886"
+								},
+								{
+									"index": 11,
+									"stationName": "탄방역.대전고용센터",
+									"stationID": 367089,
+									"x": "127.385539",
+									"y": "36.346879"
+								},
+								{
+									"index": 12,
+									"stationName": "녹원아파트",
+									"stationID": 364875,
+									"x": "127.381779",
+									"y": "36.346093"
+								},
+								{
+									"index": 13,
+									"stationName": "대전상공회의소",
+									"stationID": 364980,
+									"x": "127.378982",
+									"y": "36.346205"
+								},
+								{
+									"index": 14,
+									"stationName": "큰마을네거리",
+									"stationID": 364691,
+									"x": "127.376116",
+									"y": "36.349308"
+								},
+								{
+									"index": 15,
+									"stationName": "갈마육교",
+									"stationID": 364662,
+									"x": "127.371888",
+									"y": "36.351413"
+								},
+								{
+									"index": 16,
+									"stationName": "갈마네거리",
+									"stationID": 364656,
+									"x": "127.368439",
+									"y": "36.353621"
+								},
+								{
+									"index": 17,
+									"stationName": "대전일보사",
+									"stationID": 365026,
+									"x": "127.361516",
+									"y": "36.354134"
+								},
+								{
+									"index": 18,
+									"stationName": "월평삼거리",
+									"stationID": 365982,
+									"x": "127.356001",
+									"y": "36.352753"
+								},
+								{
+									"index": 19,
+									"stationName": "도시철도공사앞",
+									"stationID": 364988,
+									"x": "127.351880",
+									"y": "36.351171"
+								},
+								{
+									"index": 20,
+									"stationName": "만년교",
+									"stationID": 366632,
+									"x": "127.345628",
+									"y": "36.352778"
+								}
+							]
+						},
+						"distance": 9269,
+						"sectionTime": 33,
+						"startX": 127.4225584,
+						"startY": 36.351542,
+						"startID": 366505,
+						"startName": "한남대학교",
+						"endX": 127.3456276,
+						"endY": 36.3527777,
+						"endID": 366632,
+						"endName": "만년교"
+					},
+					{
+						"trafficType": 3,
+						"distance": 0,
+						"sectionTime": 0
+					},
+					{
+						"trafficType": 2,
+						"lane": [
+							{
+								"busNo": "312",
+								"type": 11,
+								"busID": 31197
+							}
+						],
+						"stationCount": 12,
+						"passStopList": {
+							"stations": [
+								{
+									"index": 0,
+									"stationName": "만년교",
+									"stationID": 366632,
+									"x": "127.345628",
+									"y": "36.352778"
+								},
+								{
+									"index": 1,
+									"stationName": "유성온천역5번출구",
+									"stationID": 366010,
+									"x": "127.339921",
+									"y": "36.354342"
+								},
+								{
+									"index": 2,
+									"stationName": "유성시외버스정류장",
+									"stationID": 366003,
+									"x": "127.334617",
+									"y": "36.355718"
+								},
+								{
+									"index": 3,
+									"stationName": "구암역",
+									"stationID": 364768,
+									"x": "127.330927",
+									"y": "36.356013"
+								},
+								{
+									"index": 4,
+									"stationName": "정보통신공사협회",
+									"stationID": 310017,
+									"x": "127.330272",
+									"y": "36.354387"
+								},
+								{
+									"index": 5,
+									"stationName": "유성구보훈회관",
+									"stationID": 365303,
+									"x": "127.332649",
+									"y": "36.351336"
+								},
+								{
+									"index": 6,
+									"stationName": "유성고등학교",
+									"stationID": 365992,
+									"x": "127.335741",
+									"y": "36.350614"
+								},
+								{
+									"index": 7,
+									"stationName": "봉명동",
+									"stationID": 365374,
+									"x": "127.339299",
+									"y": "36.350147"
+								},
+								{
+									"index": 8,
+									"stationName": "휴먼시아4단지",
+									"stationID": 367496,
+									"x": "127.340212",
+									"y": "36.346295"
+								},
+								{
+									"index": 9,
+									"stationName": "트리풀시티9단지",
+									"stationID": 310037,
+									"x": "127.338091",
+									"y": "36.341489"
+								},
+								{
+									"index": 10,
+									"stationName": "도안고등학교",
+									"stationID": 367494,
+									"x": "127.338024",
+									"y": "36.337604"
+								},
+								{
+									"index": 11,
+									"stationName": "흥도초등학교",
+									"stationID": 400805,
+									"x": "127.337988",
+									"y": "36.333918"
+								},
+								{
+									"index": 12,
+									"stationName": "목원대학교",
+									"stationID": 401060,
+									"x": "127.337978",
+									"y": "36.329799"
+								}
+							]
+						},
+						"distance": 5460,
+						"sectionTime": 21,
+						"startX": 127.3456276,
+						"startY": 36.3527777,
+						"startID": 366632,
+						"startName": "만년교",
+						"endX": 127.337978,
+						"endY": 36.3297989,
+						"endID": 401060,
+						"endName": "목원대학교"
+					},
+					{
+						"trafficType": 3,
+						"distance": 514,
+						"sectionTime": 8
+					}
+				],
+				"info": {
+					"mapObj": "31190:1:56:76@31197:1:75:87",
+					"payment": 1250,
+					"busTransitCount": 2,
+					"subwayTransitCount": 0,
+					"busStationCount": 32,
+					"subwayStationCount": 0,
+					"totalStationCount": 32,
+					"totalTime": 63,
+					"totalWalk": 609,
+					"trafficDistance": 14729,
+					"totalDistance": 15338,
+					"firstStartStation": "한남대학교",
+					"lastEndStation": "목원대학교",
+					"totalWalkTime": -1
+				}
+			}
+		],
+		"searchType": 0,
+		"startRadius": 700,
+		"endRadius": 700,
+		"subwayCount": 0,
+		"busCount": 7,
+		"subwayBusCount": 0,
+		"pointDistance": 8156,
+		"outTrafficCheck": 0
+	}
+}

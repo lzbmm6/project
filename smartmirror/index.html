@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html ng-app="SmartMirror">
+<head>
+<meta charset="utf-8">
+<title>Public Smart-Mirror</title>
+
+<!-- Add source -->
+
+<!-- <script src="http://code.responsivevoice.org/responsivevoice.js"></script> -->
+
+<script src="http://code.responsivevoice.org/responsivevoice.js"></script>
+	<!-- Libraries -->
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.js"></script>
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular-animate.min.js"></script>
+	<!-- X2JS -->
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/x2js/1.2.0/xml2json.min.js"
+		charset="utf-8"></script>
+	
+	
+	<!-- App -->
+	<script src="js/app.js"></script>
+	<script src="config.js"></script>
+	<!-- 음성 인식 부분 -->
+	<script src="js/annyang.js"></script>
+	<script src="js/annyang-service.js"></script>
+	<script src="js/command.js">/*명령어*/</script>
+	<script src="js/controller.js">/*Annang Service Controller*/</script>
+	<script src="js/StreamRecog.js">/*google STT api */</script>
+	<!-- 기능 구현  -->
+	<script src="js/function-service.js"></script>
+	<!--날씨 -->
+	<script src="js/weather-service.js"></script>
+	<!--지도-->
+	<script src="js/map-service.js">/*지도*/</script>
+	<script src="js/geolocation-service.js">/*GPS 위치*/</script>
+	<script src="js/rrule.js">/*날짜*/</script>
+	<!--Bing MAP API-->
+	<script src="js/traffic-service.js"></script>
+	<!-- Seoul Open Data - Subway API -->
+	<script src="js/subway-service.js"></script>
+
+
+
+
+
+	<script>
+	  window.$ = window.jQuery =require('./js/jquery-2.2.2.min.js');
+	  $(function(){
+	  	$('#news').click(function(){
+	  		$('#news-div').load('https://news.google.co.kr/news?pz=1&zx=muklwsp2gkt0 .section-toptop .esc-lead-article-title .titletext',function(){
+	  			console.log('news loaded.');
+	  		});
+	  	});
+	  });
+	</script>
+	
+
+
+
+<!-- Styles and Resources -->
+<link rel="shortcut icon" href="favicon.ico" />
+<link
+	href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800,700'
+	rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/main.css" />
+<link rel="stylesheet" href="css/weather-icons.css">
+
+</head>
+<body ng-controller="MirrorCtrl as commands">
+	<body lang="ko">
+	<div class="top">
+		
+
+		<button ng-Click="recognize()">recog</button>
+		<div class="top-left">
+			<div class="date grey">{{date | date : 'yyyy'}}년 {{date |date : 'MM'}}월 {{date |date :'d'}}일 
+			<script type="text/javascript">
+			var d = new Date();
+			var week = new Array('일','월','화','수','목','금','토');
+			document.write(week[d.getDay()]+"요일");</script></div>
+			<div class="time">{{date | date : 'hh : mm : ss a'}}</div>
+			<div>
+					<li class="event" ng-repeat="event in calendar">
+						<div class="event-details">
+							<span class="day">{{event.start.format('dddd') |
+								uppercase}}</span> <span class="summary">{{event.SUMMARY}}</span>
+							<div class="details">{{event.start.format('YYYY Do MMMM,
+								h:mm:ss a')}}</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="top-right">
+		
+		<div class="weather">
+			<div id="weather-sidebar" class="fade" ng-show="focus == 'default'"></div>
+			<div>
+				<div class="weather-today">
+					<div id="titleWeather">
+						<span>오늘 날씨</span><br>
+					</div>
+					<span class="icon dimmed wi {{currentForcast.wi}}"></span> 
+					<span class="tempreture">{{currentForcast.temperature}}&deg;C</span>
+				</div>
+						<!-- UI를 위해 생략
+	              <span>{{hourlyForcast.summary}}</span>
+	              <span>{{weeklyForcast.summary}}</span> -->
+							<span class="day light-grey">{{forcast.day}}</span> <span
+								class="icon-small dimmed wi {{forcast.wi}}"></span> <span
+								class="tempreture tempreture-min">{{forcast.temperatureMin}}&deg;</span>
+							<span class="tempreture tempreture-max">{{forcast.temperatureMax}}&deg;</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="traffic">
+			<div ng-show="!traffic.error" class="traffic-information">
+				<div id="traffic-sidebar" class="fade" ng-show="focus == 'default'"></div>
+				<div id="titleTraffic">
+					<span>이동 정보 </span></br>
+				</div>
+				<div id="traffic-content" ng-show="focus == 'default'">
+					<span>{{traffic.name}}</span></br> <span>{{traffic.origin}}에서
+						{{traffic.destination}}</span></br> <span ng-show="traffic.hours > 0">{{traffic.hours}}
+						hours and</span> <span>{{traffic.minutes}} minutes</br></span>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	<div class="container">
+		<div class="middle-bottom">
+			<div class="greeting hidden" ng-show="focus == 'default'">
+				<h1>{{greeting}}</h1>
+				<div class='hole'>
+					<i></i> <i></i> <i></i> <i></i> <i></i> <i></i> <i></i> <i></i> <i></i>
+					<i></i>
+				</div>
+			</div>
+			<!-- <div class="listening" ng-show="listening">Ready: {{focus}}</div> -->
+			<div class="contents-box animate-grow" ng-show="focus == 'whoissmartmirror'">
+				<img id="whoissmartmirror" src="image/whoissmartmirror.PNG" />
+			</div>
+			<div class="contents-box map animate-grow" ng-show="focus == 'map'">
+				<img class="contents map animate-grow" ng-src="{{map}}" />
+			</div>
+			<div class="youtube-container animate-grow"
+				ng-show="focus == 'youtube'">
+				<iframe id="youtube_player" class="yt_player_iframe" width="100%"
+					height="90%" ng-src="{{currentYoutubeUrl}}" allowfullscreen="true"
+					allowscriptaccess="always" frameborder="0"></iframe>
+			</div>
+			<div id="news-div" class="news-container news animate-grow" ng-show="focus == 'news'"></div>
+			
+			<div class="subwayInfo-container animate-grow"
+				ng-show="focus == 'subway'">
+				<p class="subwayInfo">{{subwayinfo1}}</p>
+				<p class="subwayInfo">{{subwayinfo2}}</p>
+				<p class="subwayInfo">{{subwayinfo3}}</p>
+				<p class="subwayInfo">{{subwayinfo4}}</p>
+			</div>
+		</div>
+		<div class="bottom-center">
+			<!-- Command list -->
+			<div class="commands animate-grow" ng-show="focus == 'commands'">
+				<h3>[메뉴]</h3>
+				<dl>
+					<dt>메뉴</dt>
+					<dd>사용 가능한 명령을 보여줍니다.</dd>
+					<dt>-홈으로</dt>
+					<dd>홈 스크린으로 돌아갑니다.</dd>
+					<dt>-안녕 미러</dt>
+					<dd>미러를 깨웁니다.</dd>
+					<dt>-잘자 미러</dt>
+					<dd>미러를 재웁니다.</dd>
+					<dt>-지금 어디 야 </dt>
+					<dd>현재 위치를 지도로 보여줍니다.</dd>
+					<dt>-*** 위치 보여 줘</dt>
+					<dd>원하는 위치를 지도로 보여줍니다.</dd>
+					<dt>-지도 확대 / 지도 축소 / 지도 리셋</dt>
+					<dd>지도를 확대 / 축소 / 기본 줌 상태로 변경합니다.</dd>
+					<dt>-***가는길 알려줘</dt>
+					<dd>원하시는 장소 까지의 버스정보를 알려드립니다.</dd>
+				</dl>
+			</div>
+
+			<div class="interim-result" ng-bind="interimResult"></div>
+			<div class="bottom-right">
+				<!-- 하단부 오른쪽  -->
+
+			</div>	
+			</div>
+		</div>
+	</div>
+
+	<!-- Debug Buttons -->
+	<div class="debug-info" ng-show="focus == 'debug'">
+		<!--  "debug == true">-->
+		<button ng-click="focus = (focus == 'map')?'default':'map'">Map</button>
+		<button ng-click="focus = (focus == 'commands')?'default':'commands'">Commands</button>
+		<button id="news" ng-click="focus = (focus == 'news')?'default':'news'">News</button>
+		<button ng-click="debug = false">Close Debug</button>
+		<!-- Has results -->
+		<div ng-show="commands.results.length > 0">
+			<button class="btn btn-default" ng-click="commands.clearResults()">Clear</button>
+			<hr />
+			<ul class="list-group">
+				<li class="list-group-item" ng-repeat="result in commands.results">
+					<span class="badge">{{ result.date | date : 'EEE MMM, yyyy
+						hh:mm:ss a' }}</span> {{ result.content }}
+				</li>
+			</ul>
+		</div>
+	</div>
+	<!-- Sleep cover -->
+	<div ng-show="focus == 'sleep'" class="sleep-cover fade"></div>
+	<div class = "ad">
+		<div class="bottom">
+			<marquee bgcolor="white"><font color="black"><font size=6><b>이 버스정류장은 시민의 건강을 위한 금연구역 입니다. 이 버스정류장은 시민의 건강을 위한 금연구역 입니다. </b>
+				</font></font></marquee>
+		</div></div>
+	
+	</body>
+</html>
